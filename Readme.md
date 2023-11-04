@@ -2,7 +2,7 @@
 
 Autor: Jordi Rodríguez  
   
-Control de 2 ruedas Led en serie desde Arduino  
+Control de 2 anillos Led en serie desde Arduino  
 Para la programación usaremos la plataforma Arduino IDE:  
 
 https://www.arduino.cc/en/software  
