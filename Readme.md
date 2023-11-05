@@ -1,48 +1,25 @@
 # Rueda Led  
+🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
-Autor: Jordi Rodríguez  
-  
-Control de 2 anillos Led en serie desde Arduino  
-Para la programación usaremos la plataforma Arduino IDE:  
+👨🏻‍💻Práctica de **control de anillos led** en serie con Arduino  
+    
+### Software  
+- Programado con [Arduino](https://www.arduino.cc/en/software)
+- Se han incluido las siguientes librerías:  
+-- [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)  
+- Este código realiza las siguientes funciones simples:  
+-- Control de 2 anillos led en serie
+-- Iluminación cambiante  
 
-https://www.arduino.cc/en/software  
-
-Se han incluido las siguientes librerías:  
-
-- Adafruit_NeoPixel
-https://github.com/adafruit/Adafruit_NeoPixel  
-
-  
-  
-![Imagen Ruedas_Led acabado](RuedaLed.jpg)  
-
-
-## Material utilizado  
-
-
-- 2 x WS2812B = Anillo RGB 16 led   
+### Hardware  
 - Arduino UNO  
-  
+- 2 x WS2812B = Anillo RGB 16 led  
 
-## Pines de conexion  
+### Montaje  
+![Imagen](/Images/RuedaLed.jpg)  
+Conexiones a pines Arduino UNO:  
+- D06-= signal  
 
-A0 =  
-A1 =  
-A2 =  
-A3 =   
-A4 =  
-A5 =  
-D0 = (RX)  
-D1 = (TX)  
-D2 = (INT0)  
-D3-= (INT1)  
-D4 =     
-D5-=  
-D6-= Signal  
-D7 =  
-D8 =  
-D9-=  
-D10-=  
-D11-=  
-D12 =   
-D13 =  
+### Licencia  
+⚖️Todo el contenido distribuido bajo [licencia GPL-3.0](https://www.gnu.org/licenses/gpl-3.0), salvo indicación expresa.  
+Las referencias y librerías empleadas, estarán sujetas a sus propia licencia, y no se incluyen en este repositorio.  
