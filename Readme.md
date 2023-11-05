@@ -8,7 +8,7 @@
 - Se han incluido las siguientes librerías:  
 -- [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)  
 - Este código realiza las siguientes funciones simples:  
--- Control de 2 anillos led en serie
+-- Control de 2 anillos led en serie  
 -- Iluminación cambiante  
 
 ### Hardware  
