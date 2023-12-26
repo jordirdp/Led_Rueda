@@ -16,7 +16,8 @@
 - 2 x WS2812B = Anillo RGB 16 led  
 
 ### Montaje  
-![Imagen](/Images/RuedaLed.jpg)  
+<img src="/Images/RuedaLed.jpg" width="300"/>   
+ 
 Conexiones a pines Arduino UNO:  
 - D06-= signal  
 
